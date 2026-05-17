@@ -1,415 +1,645 @@
 {
-  "version": 1,
+  "version": 2,
   "manuals": [
+    {
+      "filename": "HP_DesingJet_HP_T1700_Guia_de_Usuario.pdf",
+      "brand": "HP",
+      "model": "DesingJet",
+      "originalName": "HP T1700 Guia de Usuario",
+      "type": "User Guide",
+      "size": 6853529
+    },
     {
       "filename": "HP_DesingJet_T1700_Service_Manual.pdf",
       "brand": "HP",
       "model": "DesingJet",
       "originalName": "T1700 Service Manual",
-      "originalPath": "HP/DesingJet/T1700/T1700 Service Manual.pdf",
-      "size": 20089250,
-      "method": "compressed",
-      "hash": "68bae4f9ebc7"
+      "type": "Service Manual",
+      "size": 65530253
     },
     {
       "filename": "HP_LaserJet_CPMD__E45028_E47528.pdf",
       "brand": "HP",
       "model": "LaserJet",
       "originalName": "CPMD  E45028 E47528",
-      "originalPath": "HP/LaserJet/ E45028 E47528/CPMD  E45028 E47528.pdf",
-      "size": 5386067,
-      "method": "original",
-      "hash": "5379e9de4c1b"
-    },
-    {
-      "filename": "HP_LaserJet_HP_527_528_Troubleshooting.pdf",
-      "brand": "HP",
-      "model": "LaserJet",
-      "originalName": "HP 527-528 Troubleshooting",
-      "originalPath": "HP/LaserJet/527-528/HP 527-528 Troubleshooting.pdf",
-      "size": 13333015,
-      "method": "compressed",
-      "hash": "01ffa0735f9c"
-    },
-    {
-      "filename": "HP_LaserJet_HP_527_528_Repair.pdf",
-      "brand": "HP",
-      "model": "LaserJet",
-      "originalName": "HP 527-528 Repair",
-      "originalPath": "HP/LaserJet/527-528/HP 527-528 Repair.pdf",
-      "size": 14120338,
-      "method": "compressed",
-      "hash": "522a9d6c16c0"
-    },
-    {
-      "filename": "HP_LaserJet_CPMD_HP_E52645.pdf",
-      "brand": "HP",
-      "model": "LaserJet",
-      "originalName": "CPMD HP E52645",
-      "originalPath": "HP/LaserJet/E50145-E52645/CPMD HP E52645.pdf",
-      "size": 4021278,
-      "method": "compressed",
-      "hash": "8fa8cacb2337"
-    },
-    {
-      "filename": "HP_LaserJet_E52545_E52645_Troubleshooting.pdf",
-      "brand": "HP",
-      "model": "LaserJet",
-      "originalName": "E52545-E52645 Troubleshooting",
-      "originalPath": "HP/LaserJet/E50145-E52645/E52545-E52645 Troubleshooting.pdf",
-      "size": 24208545,
-      "method": "compressed",
-      "hash": "e7b15322c7a9"
-    },
-    {
-      "filename": "HP_LaserJet_E87640_50_60_CPMD.pdf",
-      "brand": "HP",
-      "model": "LaserJet",
-      "originalName": "E87640-50-60 CPMD",
-      "originalPath": "HP/LaserJet/E87640-E87650-E87660/E87640-50-60 CPMD.pdf",
-      "size": 14210252,
-      "method": "compressed",
-      "hash": "e43084fc4c85"
-    },
-    {
-      "filename": "HP_LaserJet_E62555_Troubleshooting.pdf",
-      "brand": "HP",
-      "model": "LaserJet",
-      "originalName": "E62555 Troubleshooting",
-      "originalPath": "HP/LaserJet/E62555-6265x/E62555 Troubleshooting.pdf",
-      "size": 12067385,
-      "method": "original",
-      "hash": "9dac3a945011"
-    },
-    {
-      "filename": "HP_LaserJet_HP_408_432_Service_Manual.pdf",
-      "brand": "HP",
-      "model": "LaserJet",
-      "originalName": "HP 408-432 Service Manual",
-      "originalPath": "HP/LaserJet/HP 408-432/HP 408-432 Service Manual.pdf",
-      "size": 12054530,
-      "method": "compressed",
-      "hash": "66d047d32b2c"
-    },
-    {
-      "filename": "HP_LaserJet_CPMD_M750dn.pdf",
-      "brand": "HP",
-      "model": "LaserJet",
-      "originalName": "CPMD M750dn",
-      "originalPath": "HP/LaserJet/M750/CPMD M750dn.pdf",
-      "size": 1858151,
-      "method": "compressed",
-      "hash": "a1c744f4f5e6"
-    },
-    {
-      "filename": "HP_LaserJet_Service_Manual_M750dn.pdf",
-      "brand": "HP",
-      "model": "LaserJet",
-      "originalName": "Service Manual M750dn",
-      "originalPath": "HP/LaserJet/M750/Service Manual M750dn.pdf",
-      "size": 26805044,
-      "method": "original",
-      "hash": "e76c9105bf55"
+      "type": "CPMD",
+      "size": 5386067
     },
     {
       "filename": "HP_LaserJet_Service_Manual_E45028_E47528.pdf",
       "brand": "HP",
       "model": "LaserJet",
       "originalName": "Service Manual E45028 E47528",
-      "originalPath": "HP/LaserJet/ E45028 E47528/Service Manual E45028 E47528.pdf",
-      "size": 46797011,
-      "method": "fallback",
-      "hash": "59d2413d736b"
+      "type": "Service Manual",
+      "size": 46797011
     },
     {
-      "filename": "HP_LaserJet_M830_Control_Panel_Message_Document__CPMD_.pdf",
+      "filename": "HP_LaserJet_HP_527_528_Repair.pdf",
       "brand": "HP",
       "model": "LaserJet",
-      "originalName": "M830 Control Panel Message Document (CPMD)",
-      "originalPath": "HP/LaserJet/M830/M830 Control Panel Message Document (CPMD).pdf",
-      "size": 5443196,
-      "method": "compressed",
-      "hash": "b832178afc64"
+      "originalName": "HP 527-528 Repair",
+      "type": "Service Manual",
+      "size": 23922853
     },
     {
-      "filename": "HP_LaserJet_M604_605_606_Repair.pdf",
+      "filename": "HP_LaserJet_HP_527_528_Troubleshooting.pdf",
       "brand": "HP",
       "model": "LaserJet",
-      "originalName": "M604-605-606 Repair",
-      "originalPath": "HP/LaserJet/M604-605-606/M604-605-606 Repair.pdf",
-      "size": 38172676,
-      "method": "original",
-      "hash": "e2260b97e778"
+      "originalName": "HP 527-528 Troubleshooting",
+      "type": "Troubleshooting",
+      "size": 23499904
+    },
+    {
+      "filename": "HP_LaserJet_CPMD_HP_E52645.pdf",
+      "brand": "HP",
+      "model": "LaserJet",
+      "originalName": "CPMD HP E52645",
+      "type": "CPMD",
+      "size": 6128098
+    },
+    {
+      "filename": "HP_LaserJet_E52545_E52645_Troubleshooting.pdf",
+      "brand": "HP",
+      "model": "LaserJet",
+      "originalName": "E52545-E52645 Troubleshooting",
+      "type": "Troubleshooting",
+      "size": 27300758
     },
     {
       "filename": "HP_LaserJet_E62555_Repair.pdf",
       "brand": "HP",
       "model": "LaserJet",
       "originalName": "E62555 Repair",
-      "originalPath": "HP/LaserJet/E62555-6265x/E62555 Repair.pdf",
-      "size": 43675681,
-      "method": "fallback",
-      "hash": "ba1e10d07a17"
+      "type": "Service Manual",
+      "size": 43675681
     },
     {
-      "filename": "HP_LaserJet_CPMD_MFP_E62655__E62665__E62675.pdf",
+      "filename": "HP_LaserJet_E62555_Troubleshooting.pdf",
       "brand": "HP",
       "model": "LaserJet",
-      "originalName": "CPMD MFP E62655, E62665, E62675",
-      "originalPath": "HP/LaserJet/MFP E62655, E62665, E62675/CPMD MFP E62655, E62665, E62675.pdf",
-      "size": 4952045,
-      "method": "compressed",
-      "hash": "8db1d52a749b"
+      "originalName": "E62555 Troubleshooting",
+      "type": "Troubleshooting",
+      "size": 12067385
+    },
+    {
+      "filename": "HP_LaserJet_E87640_50_60_CPMD.pdf",
+      "brand": "HP",
+      "model": "LaserJet",
+      "originalName": "E87640-50-60 CPMD",
+      "type": "CPMD",
+      "size": 22057748
+    },
+    {
+      "filename": "HP_LaserJet_HP_408_432_Service_Manual.pdf",
+      "brand": "HP",
+      "model": "LaserJet",
+      "originalName": "HP 408-432 Service Manual",
+      "type": "Service Manual",
+      "size": 14943828
+    },
+    {
+      "filename": "HP_LaserJet_M525_Trobleshooting.pdf",
+      "brand": "HP",
+      "model": "LaserJet",
+      "originalName": "M525 Trobleshooting",
+      "type": "Manual",
+      "size": 5616061
+    },
+    {
+      "filename": "HP_LaserJet_M604_605_606_Repair.pdf",
+      "brand": "HP",
+      "model": "LaserJet",
+      "originalName": "M604-605-606 Repair",
+      "type": "Service Manual",
+      "size": 38172676
+    },
+    {
+      "filename": "HP_LaserJet_CPMD_M750dn.pdf",
+      "brand": "HP",
+      "model": "LaserJet",
+      "originalName": "CPMD M750dn",
+      "type": "CPMD",
+      "size": 5347814
+    },
+    {
+      "filename": "HP_LaserJet_Service_Manual_M750dn.pdf",
+      "brand": "HP",
+      "model": "LaserJet",
+      "originalName": "Service Manual M750dn",
+      "type": "Service Manual",
+      "size": 26805044
+    },
+    {
+      "filename": "HP_LaserJet_M830_Control_Panel_Message_Document__CPMD_.pdf",
+      "brand": "HP",
+      "model": "LaserJet",
+      "originalName": "M830 Control Panel Message Document (CPMD)",
+      "type": "CPMD",
+      "size": 8744242
     },
     {
       "filename": "HP_LaserJet_M830_Repair_Manual.pdf",
       "brand": "HP",
       "model": "LaserJet",
       "originalName": "M830 Repair Manual",
-      "originalPath": "HP/LaserJet/M830/M830 Repair Manual.pdf",
-      "size": 40266704,
-      "method": "compressed",
-      "hash": "f6541c5382e5"
-    },
-    {
-      "filename": "HP_LaserJet_Service_Quick_Reference_X57945.pdf",
-      "brand": "HP",
-      "model": "LaserJet",
-      "originalName": "Service Quick Reference X57945",
-      "originalPath": "HP/LaserJet/X57945 EX557 X55745/Service Quick Reference X57945.pdf",
-      "size": 78551,
-      "method": "compressed",
-      "hash": "d0ab1bbcf5ee"
+      "type": "Service Manual",
+      "size": 43721878
     },
     {
       "filename": "HP_LaserJet_M830_Troubleshooting_Manual.pdf",
       "brand": "HP",
       "model": "LaserJet",
       "originalName": "M830 Troubleshooting Manual",
-      "originalPath": "HP/LaserJet/M830/M830 Troubleshooting Manual.pdf",
-      "size": 18491784,
-      "method": "original",
-      "hash": "7a9448180f8e"
+      "type": "Troubleshooting",
+      "size": 18491784
     },
     {
-      "filename": "HP_LaserJet_CPMD_X57945.pdf",
+      "filename": "HP_LaserJet_Managed_Flow_MFP_M830.pdf",
       "brand": "HP",
       "model": "LaserJet",
-      "originalName": "CPMD X57945",
-      "originalPath": "HP/LaserJet/X57945 EX557 X55745/CPMD X57945.pdf",
-      "size": 5592860,
-      "method": "compressed",
-      "hash": "43da3fa73d2e"
+      "originalName": "Managed Flow MFP M830",
+      "type": "Manual",
+      "size": 242621
     },
     {
-      "filename": "HP_LaserJet_CPMD_x654_677.pdf",
+      "filename": "HP_LaserJet_CPMD_MFP_E62655__E62665__E62675.pdf",
       "brand": "HP",
       "model": "LaserJet",
-      "originalName": "CPMD x654-677",
-      "originalPath": "HP/LaserJet/X654-677/CPMD x654-677.pdf",
-      "size": 6378442,
-      "method": "compressed",
-      "hash": "9744d2748628"
-    },
-    {
-      "filename": "HP_LaserJet_Service_manual__X57945_eX557_X55745.pdf",
-      "brand": "HP",
-      "model": "LaserJet",
-      "originalName": "Service manual  X57945 eX557 X55745",
-      "originalPath": "HP/LaserJet/X57945 EX557 X55745/Service manual  X57945 eX557 X55745.pdf",
-      "size": 42119430,
-      "method": "compressed",
-      "hash": "d1b2c3eb349c"
+      "originalName": "CPMD MFP E62655, E62665, E62675",
+      "type": "CPMD",
+      "size": 7038028
     },
     {
       "filename": "HP_LaserJet_Service_Manual_MFP_E62655__E62665__E62675.pdf",
       "brand": "HP",
       "model": "LaserJet",
       "originalName": "Service Manual MFP E62655, E62665, E62675",
-      "originalPath": "HP/LaserJet/MFP E62655, E62665, E62675/Service Manual MFP E62655, E62665, E62675.pdf",
-      "size": 70609789,
-      "method": "fallback",
-      "hash": "5e7df3ece4b7"
+      "type": "Service Manual",
+      "size": 70609789
+    },
+    {
+      "filename": "HP_LaserJet_HP_3027_M3035_MFP.pdf",
+      "brand": "HP",
+      "model": "LaserJet",
+      "originalName": "HP 3027-M3035-MFP",
+      "type": "Manual",
+      "size": 12503671
+    },
+    {
+      "filename": "HP_LaserJet_HP_LJ_P4010_P4510_Manual.pdf",
+      "brand": "HP",
+      "model": "LaserJet",
+      "originalName": "HP-LJ-P4010-P4510-Manual",
+      "type": "Manual",
+      "size": 27048940
+    },
+    {
+      "filename": "HP_LaserJet_CPMD_X57945.pdf",
+      "brand": "HP",
+      "model": "LaserJet",
+      "originalName": "CPMD X57945",
+      "type": "CPMD",
+      "size": 10886840
+    },
+    {
+      "filename": "HP_LaserJet_Service_Quick_Reference_X57945.pdf",
+      "brand": "HP",
+      "model": "LaserJet",
+      "originalName": "Service Quick Reference X57945",
+      "type": "Service Manual",
+      "size": 712872
+    },
+    {
+      "filename": "HP_LaserJet_Service_manual__X57945_eX557_X55745.pdf",
+      "brand": "HP",
+      "model": "LaserJet",
+      "originalName": "Service manual  X57945 eX557 X55745",
+      "type": "Service Manual",
+      "size": 56567807
+    },
+    {
+      "filename": "HP_LaserJet_CPMD_x654_677.pdf",
+      "brand": "HP",
+      "model": "LaserJet",
+      "originalName": "CPMD x654-677",
+      "type": "CPMD",
+      "size": 12065889
+    },
+    {
+      "filename": "HP_PageWide_57750.pdf",
+      "brand": "HP",
+      "model": "PageWide",
+      "originalName": "57750",
+      "type": "Manual",
+      "size": 3902438
+    },
+    {
+      "filename": "HP_PageWide_HP_57750_Guia_de_Usuario.pdf",
+      "brand": "HP",
+      "model": "PageWide",
+      "originalName": "HP 57750 Guia de Usuario",
+      "type": "User Guide",
+      "size": 2926093
     },
     {
       "filename": "HP_PageWide_Repair_HP_57750.pdf",
       "brand": "HP",
       "model": "PageWide",
       "originalName": "Repair HP 57750",
-      "originalPath": "HP/PageWide/57750/Repair HP 57750.pdf",
-      "size": 7680032,
-      "method": "compressed",
-      "hash": "624eec37e9f8"
+      "type": "Service Manual",
+      "size": 7882075
+    },
+    {
+      "filename": "HP_PageWide_p57750_falla_de_impresion.pdf",
+      "brand": "HP",
+      "model": "PageWide",
+      "originalName": "p57750 falla de impresion",
+      "type": "Manual",
+      "size": 918423
     },
     {
       "filename": "HP_PageWide_pagewide_repair_352__377__452_477_and_552__577.pdf",
       "brand": "HP",
       "model": "PageWide",
       "originalName": "pagewide repair 352, 377, 452,477 and 552, 577",
-      "originalPath": "HP/PageWide/57750/pagewide repair 352, 377, 452,477 and 552, 577.pdf",
-      "size": 7670133,
-      "method": "compressed",
-      "hash": "04c5c9b3422c"
+      "type": "Service Manual",
+      "size": 7833097
     },
     {
       "filename": "HP_PageWide_pagewide_troubleshooting_352__377__452__477__and_5.pdf",
       "brand": "HP",
       "model": "PageWide",
       "originalName": "pagewide troubleshooting 352, 377, 452, 477, and 552,577",
-      "originalPath": "HP/PageWide/57750/pagewide troubleshooting 352, 377, 452, 477, and 552,577.pdf",
-      "size": 3848420,
-      "method": "compressed",
-      "hash": "9531d3f4762f"
+      "type": "Troubleshooting",
+      "size": 4503536
     },
     {
       "filename": "HP_PageWide_556_Repair.pdf",
       "brand": "HP",
       "model": "PageWide",
       "originalName": "556 Repair",
-      "originalPath": "HP/PageWide/E55650/556 Repair.pdf",
-      "size": 9375744,
-      "method": "original",
-      "hash": "e6fd970ee511"
+      "type": "Service Manual",
+      "size": 9375744
+    },
+    {
+      "filename": "HP_PageWide_A3_PageWide_F2F_deck_2_6_17_final_ES.pdf",
+      "brand": "HP",
+      "model": "PageWide",
+      "originalName": "A3-PageWide_F2F_deck_2_6_17_final-ES",
+      "type": "Manual",
+      "size": 6819277
     },
     {
       "filename": "HP_PageWide_LIMO_CPMD_2_7_17.pdf",
       "brand": "HP",
       "model": "PageWide",
       "originalName": "LIMO_CPMD_2_7_17",
-      "originalPath": "HP/PageWide/HP MFP 772 (P77755)/LIMO_CPMD_2_7_17.pdf",
-      "size": 576459,
-      "method": "compressed",
-      "hash": "92ca91fe3eea"
+      "type": "CPMD",
+      "size": 925617
+    },
+    {
+      "filename": "HP_PageWide_HP_PageWide_300_400_500_series___Printed_pages_are.pdf",
+      "brand": "HP",
+      "model": "PageWide",
+      "originalName": "HP PageWide 300 400 500 series - Printed pages are misaligned in speci.._",
+      "type": "Specifications",
+      "size": 263503
+    },
+    {
+      "filename": "HP_PageWide_HP_PageWide_300__400__and_500_series___PQ__Print_Q.pdf",
+      "brand": "HP",
+      "model": "PageWide",
+      "originalName": "HP PageWide 300, 400, and 500 series - PQ (Print Quality) Library PQ Iss...",
+      "type": "Manual",
+      "size": 1678222
     },
     {
       "filename": "HP_PageWide_Control_panel_message_document__CPMD_.pdf",
       "brand": "HP",
       "model": "PageWide",
       "originalName": "Control panel message document (CPMD)",
-      "originalPath": "HP/PageWide/P77950/Control panel message document (CPMD).pdf",
-      "size": 5097582,
-      "method": "compressed",
-      "hash": "b7b4c36828de"
+      "type": "CPMD",
+      "size": 8041131
     },
     {
       "filename": "HP_PageWide_Troubleshooting_manual.pdf",
       "brand": "HP",
       "model": "PageWide",
       "originalName": "Troubleshooting manual",
-      "originalPath": "HP/PageWide/P77950/Troubleshooting manual.pdf",
-      "size": 10320844,
-      "method": "original",
-      "hash": "b8b65fee902a"
+      "type": "Troubleshooting",
+      "size": 10320844
     },
     {
       "filename": "HP_PageWide_troubleshooting_x585.pdf",
       "brand": "HP",
       "model": "PageWide",
       "originalName": "troubleshooting x585",
-      "originalPath": "HP/PageWide/X585/troubleshooting x585.pdf",
-      "size": 4744295,
-      "method": "original",
-      "hash": "85937de06e83"
+      "type": "Troubleshooting",
+      "size": 4744295
     },
     {
-      "filename": "HP_ScanJet_Troubleshooting.pdf",
+      "filename": "HP_ScanJet_Scanjet_Pro4500_Manual_Usuario.pdf",
       "brand": "HP",
       "model": "ScanJet",
-      "originalName": "Troubleshooting",
-      "originalPath": "HP/ScanJet/8500/Troubleshooting.pdf",
-      "size": 1564398,
-      "method": "compressed",
-      "hash": "b7cdefe49b4c"
+      "originalName": "Scanjet Pro4500 Manual Usuario",
+      "type": "User Guide",
+      "size": 3528677
     },
     {
       "filename": "HP_ScanJet_Repair_Manual_Service_manual_8500.pdf",
       "brand": "HP",
       "model": "ScanJet",
       "originalName": "Repair Manual Service manual 8500",
-      "originalPath": "HP/ScanJet/8500/Repair Manual Service manual 8500.pdf",
-      "size": 5194539,
-      "method": "original",
-      "hash": "c4cd04e4a0ad"
+      "type": "Service Manual",
+      "size": 5194539
+    },
+    {
+      "filename": "HP_ScanJet_Troubleshooting.pdf",
+      "brand": "HP",
+      "model": "ScanJet",
+      "originalName": "Troubleshooting",
+      "type": "Troubleshooting",
+      "size": 2265139
+    },
+    {
+      "filename": "Lexmark_Guia_de_Uso_del_equipo_pdf_Guia_de_Uso_del_equipo.pdf",
+      "brand": "Lexmark",
+      "model": "Guia de Uso del equipo.pdf",
+      "originalName": "Guia de Uso del equipo",
+      "type": "User Guide",
+      "size": 164014
+    },
+    {
+      "filename": "Lexmark_MX711_MS710_MS711_MS810_MS811_MS812_M5150_M5160_M5170_40.pdf",
+      "brand": "Lexmark",
+      "model": "MX711",
+      "originalName": "MS710_MS711_MS810_MS811_MS812_M5150_M5160_M5170_4063_SM",
+      "type": "Manual",
+      "size": 33515397
     },
     {
       "filename": "Lexmark_T640_T64X_Service_Manual.pdf",
       "brand": "Lexmark",
       "model": "T640",
       "originalName": "T64X Service Manual",
-      "originalPath": "Lexmark/T640/T64X Service Manual.pdf",
-      "size": 10039126,
-      "method": "compressed",
-      "hash": "9b2bf12450e5"
+      "type": "Service Manual",
+      "size": 11740078
+    },
+    {
+      "filename": "Lexmark_T652_54_T654_Nuevo.pdf",
+      "brand": "Lexmark",
+      "model": "T652-54",
+      "originalName": "T654 Nuevo",
+      "type": "Manual",
+      "size": 18319665
+    },
+    {
+      "filename": "Lexmark_T652_54_T65x_Service_Manual_1_.pdf",
+      "brand": "Lexmark",
+      "model": "T652-54",
+      "originalName": "T65x Service Manual(1)",
+      "type": "Service Manual",
+      "size": 16827696
     },
     {
       "filename": "Lexmark_T652_54_T65x_Service_Manual.pdf",
       "brand": "Lexmark",
       "model": "T652-54",
       "originalName": "T65x Service Manual",
-      "originalPath": "Lexmark/T652-54/T65x Service Manual.pdf",
-      "size": 16827696,
-      "method": "original",
-      "hash": "6109e62cc994"
+      "type": "Service Manual",
+      "size": 16827696
+    },
+    {
+      "filename": "Lexmark_X656_Guia_de_usuario_Lexmark_X656.pdf",
+      "brand": "Lexmark",
+      "model": "X656",
+      "originalName": "Guia de usuario Lexmark X656",
+      "type": "User Guide",
+      "size": 5886992
     },
     {
       "filename": "Lexmark_X656_Lexmark_X651de__X652de__X654de__X656de__X656dte__X.pdf",
       "brand": "Lexmark",
       "model": "X656",
-      "originalName": "Lexmark X651de, X652de, X654de, X656de, X656dte, X658d, X658",
-      "originalPath": "Lexmark/X656/Lexmark X651de, X652de, X654de, X656de, X656dte, X658d, X658de, X658dme, X658dfe, X658dte, X658dtme, X658dtfe Service manual.pdf",
-      "size": 21028895,
-      "method": "original",
-      "hash": "0d447d8600ec"
+      "originalName": "Lexmark X651de, X652de, X654de, X656de, X656dte, X658d, X658de, X658dme, X658dfe",
+      "type": "Manual",
+      "size": 21028895
+    },
+    {
+      "filename": "Lexmark_X656_v8059617_es.pdf",
+      "brand": "Lexmark",
+      "model": "X656",
+      "originalName": "v8059617_es",
+      "type": "Manual",
+      "size": 5886992
+    },
+    {
+      "filename": "Samsung_Color_CLX_6260FR_Exploded_View_Parts_List_map.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "CLX-6260FR_Exploded_View_Parts_List_map",
+      "type": "Parts",
+      "size": 6127371
+    },
+    {
+      "filename": "Samsung_Color_SVC_Manual_CLX_6260_series_eng.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "SVC Manual_CLX-6260 series_eng",
+      "type": "Manual",
+      "size": 16068469
+    },
+    {
+      "filename": "Samsung_Color_C4062.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "C4062",
+      "type": "Manual",
+      "size": 27056533
+    },
+    {
+      "filename": "Samsung_Color_02_Product_spec_and_feature_millet.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "02-Product_spec_and_feature_millet",
+      "type": "Specifications",
+      "size": 5429351
     },
     {
       "filename": "Samsung_Color_03_Disassembly_millet.pdf",
       "brand": "Samsung",
       "model": "Color",
       "originalName": "03-Disassembly_millet",
-      "originalPath": "Samsung/Color/CLP-315/03-Disassembly_millet.pdf",
-      "size": 919966,
-      "method": "compressed",
-      "hash": "7b2c6e5e749b"
+      "type": "Manual",
+      "size": 1491694
+    },
+    {
+      "filename": "Samsung_Color_CLP_315W.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "CLP-315W",
+      "type": "Manual",
+      "size": 3161068
+    },
+    {
+      "filename": "Samsung_Color_Cover.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "Cover",
+      "type": "Manual",
+      "size": 428791
     },
     {
       "filename": "Samsung_Color_Disassembly___Reassembly.pdf",
       "brand": "Samsung",
       "model": "Color",
       "originalName": "Disassembly & Reassembly",
-      "originalPath": "Samsung/Color/CLP-315/Disassembly & Reassembly.pdf",
-      "size": 919966,
-      "method": "compressed",
-      "hash": "3c144e9882c4"
+      "type": "Manual",
+      "size": 1491694
+    },
+    {
+      "filename": "Samsung_Color_Exploded_View___Part_List.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "Exploded View & Part List",
+      "type": "Parts",
+      "size": 9765181
+    },
+    {
+      "filename": "Samsung_Color_Product_Specification.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "Product Specification",
+      "type": "Specifications",
+      "size": 5429351
+    },
+    {
+      "filename": "Samsung_Color_Reference_Information.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "Reference Information",
+      "type": "Manual",
+      "size": 2607277
+    },
+    {
+      "filename": "Samsung_Color_Block_Diagram.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "Block Diagram",
+      "type": "Diagrams",
+      "size": 998642
     },
     {
       "filename": "Samsung_Color_Disassembly___Reassembly.pdf",
       "brand": "Samsung",
       "model": "Color",
       "originalName": "Disassembly & Reassembly",
-      "originalPath": "Samsung/Color/CLP-670/Disassembly & Reassembly.pdf",
-      "size": 1086844,
-      "method": "compressed",
-      "hash": "ecfdae542896"
+      "type": "Manual",
+      "size": 2234110
+    },
+    {
+      "filename": "Samsung_Color_Reference_Information.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "Reference Information",
+      "type": "Manual",
+      "size": 761671
+    },
+    {
+      "filename": "Samsung_Color_0_Cover_CLP_680.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "0_Cover_CLP-680",
+      "type": "Manual",
+      "size": 73837
+    },
+    {
+      "filename": "Samsung_Color_1_Precautions_CLP_680.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "1_Precautions_CLP-680",
+      "type": "Manual",
+      "size": 292500
+    },
+    {
+      "filename": "Samsung_Color_2_Specifications_CLP_680.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "2_Specifications_CLP-680",
+      "type": "Specifications",
+      "size": 3463701
+    },
+    {
+      "filename": "Samsung_Color_5_System_Diagram_CLP_680.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "5_System_Diagram_CLP-680",
+      "type": "Manual",
+      "size": 2250929
+    },
+    {
+      "filename": "Samsung_Color_CLP_680DW_SEE_Exploded_View_Parts_List.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "CLP-680DW_SEE_Exploded_View_Parts_List",
+      "type": "Parts",
+      "size": 4662244
+    },
+    {
+      "filename": "Samsung_Color_SVC_Manual_CLP_680_eng.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "SVC_Manual_CLP-680_eng",
+      "type": "Manual",
+      "size": 12567832
+    },
+    {
+      "filename": "Samsung_Color_SVC_Manual_SCX_8123_8128_series_eng_120305.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "SVC_Manual_SCX-8123_8128_series_eng_120305",
+      "type": "Manual",
+      "size": 14032802
+    },
+    {
+      "filename": "Samsung_Color_1_Precaution_CLX_9x01_eng.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "1_Precaution_CLX-9x01_eng",
+      "type": "Manual",
+      "size": 318467
+    },
+    {
+      "filename": "Samsung_Color_2_Specification_CLX_9x01_eng.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "2_Specification_CLX-9x01_eng",
+      "type": "Specifications",
+      "size": 7424159
     },
     {
       "filename": "Samsung_Color_3_Disassembly_CLX_9x01_eng.pdf",
       "brand": "Samsung",
       "model": "Color",
       "originalName": "3_Disassembly_CLX-9x01_eng",
-      "originalPath": "Samsung/Color/CLX-9201NA/Manual de Servicio/3_Disassembly_CLX-9x01_eng.pdf",
-      "size": 2552564,
-      "method": "compressed",
-      "hash": "e3240947d0de"
+      "type": "Manual",
+      "size": 5584833
     },
     {
       "filename": "Samsung_Color_4_Troubleshooting_CLX_9x01_eng.pdf",
       "brand": "Samsung",
       "model": "Color",
       "originalName": "4_Troubleshooting_CLX-9x01_eng",
-      "originalPath": "Samsung/Color/CLX-9201NA/Manual de Servicio/4_Troubleshooting_CLX-9x01_eng.pdf",
-      "size": 4311434,
-      "method": "compressed",
-      "hash": "1ed49da783a1"
+      "type": "Troubleshooting",
+      "size": 7420358
+    },
+    {
+      "filename": "Samsung_Color_SVC_Manual_CLX_9201_9251_9301_series_eng_120329.pdf",
+      "brand": "Samsung",
+      "model": "Color",
+      "originalName": "SVC_Manual_CLX-9201_9251_9301_series_eng_120329",
+      "type": "Manual",
+      "size": 18784910
     }
   ]
 }
