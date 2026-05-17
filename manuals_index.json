@@ -222,16 +222,6 @@
       "hash": "d1b2c3eb349c"
     },
     {
-      "filename": "HP_LaserJet_Service_manual_x654_677.pdf",
-      "brand": "HP",
-      "model": "LaserJet",
-      "originalName": "Service manual x654-677",
-      "originalPath": "HP/LaserJet/X654-677/Service manual x654-677.pdf",
-      "size": 49169666,
-      "method": "compressed",
-      "hash": "dbb2a76cc7af"
-    },
-    {
       "filename": "HP_LaserJet_Service_Manual_MFP_E62655__E62665__E62675.pdf",
       "brand": "HP",
       "model": "LaserJet",
@@ -322,16 +312,6 @@
       "hash": "85937de06e83"
     },
     {
-      "filename": "HP_PageWide_Service_repair_manual.pdf",
-      "brand": "HP",
-      "model": "PageWide",
-      "originalName": "Service repair manual",
-      "originalPath": "HP/PageWide/P77950/Service repair manual.pdf",
-      "size": 47822580,
-      "method": "compressed",
-      "hash": "0b05a76980cb"
-    },
-    {
       "filename": "HP_ScanJet_Troubleshooting.pdf",
       "brand": "HP",
       "model": "ScanJet",
@@ -360,16 +340,6 @@
       "size": 10039126,
       "method": "compressed",
       "hash": "9b2bf12450e5"
-    },
-    {
-      "filename": "Lexmark_T652_54_T65x_Service_Manual_1_.pdf",
-      "brand": "Lexmark",
-      "model": "T652-54",
-      "originalName": "T65x Service Manual(1)",
-      "originalPath": "Lexmark/T652-54/T65x Service Manual(1).pdf",
-      "size": 16827696,
-      "method": "original",
-      "hash": "6109e62cc994"
     },
     {
       "filename": "Lexmark_T652_54_T65x_Service_Manual.pdf",
